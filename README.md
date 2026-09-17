@@ -51,3 +51,4 @@ El script principal (`probando_2.py`) coordina el flujo de trabajo:
 ## 🔒 Nota sobre los Datos
 
 Debido a acuerdos de confidencialidad, los archivos de datos crudos (`.a4radar`) originales de la empresa no están incluidos en este repositorio.
+Recrear exactamente el formato binario PCAP y la codificación de bytes que espera la función `extrae_datos_IQ` es complejo y propenso a errores.
